@@ -2,6 +2,8 @@
 This project applies machine learning to predict power plant commitment decisions in day-ahead generation scheduling.  
 By training classification models on optimized/historical unit commitment results, it explores how data-driven approaches can complement traditional optimization for faster scheduling.
 
+**Date:** October-November 2024
+
 ---
 
 ## 👥 Contributors
