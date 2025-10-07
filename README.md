@@ -6,13 +6,6 @@ By training classification models on optimized/historical unit commitment result
 
 ---
 
-## 👥 Contributors
-[@strenchev](https://github.com/strenchev)  
-[@nic0lew0ng](https://github.com/nic0lew0ng)  
-[@raullabarthes](https://github.com/raullabarthes)  
-
----
-
 ## 📌 Project Overview
 The study investigates how **linear and non-linear classifiers** (SVMs) can approximate the binary on/off status of generation units from a system operator perspective.  
 Data include load, wind, and weather features, used to train and evaluate models predicting optimal commitment states.  
@@ -51,6 +44,13 @@ The workflow covers:
 - **[`A2.py`](A2.py):** Implements the mathematical formulation and optimization model for unit commitment, including startup, ramping, and min up/down time constraints.  
 - **[`assignment2_datapreprocessing.ipynb`](assignment2_datapreprocessing.ipynb):** Data cleaning, feature engineering, and exploratory analysis.  
 - **[`assignment2_step3.ipynb`](assignment2_step3.ipynb):** Training and evaluating linear vs. non-linear classifiers, with visual comparisons.
+
+---
+
+## 👥 Contributors
+[@strenchev](https://github.com/strenchev)  
+[@nic0lew0ng](https://github.com/nic0lew0ng)  
+[@raullabarthes](https://github.com/raullabarthes)  
 
 ---
 
